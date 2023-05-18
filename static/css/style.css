@@ -1,0 +1,22 @@
+
+.mcolor{
+    background-color: #AFD3E2;
+    
+}
+
+.carousel {
+    position: relative;
+  }
+  
+  .search-bar {
+    position: absolute;
+    top: 50%;
+    left: 0;
+    transform: translateY(-50%);
+    padding: 10px;
+    background-color: transparent;
+  }
+
+.round-edge{
+    border-radius: 10px;
+}
